@@ -1,6 +1,6 @@
-<svg version="1.1" id="flexiblegs-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve">
-  <g class="flexiblegs-logo-rounded">
-    <path fill-rule="evenodd" clip-rule="evenodd" fill="#222222" d="M8,0h44c4.418,0,8,3.582,8,8v44c0,4.418-3.582,8-8,8H8 c-4.418,0-8-3.582-8-8V8C0,3.582,3.582,0,8,0z"/>
+<svg version="1.1" id="flexiblegs-logo-rounded" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="60px" height="60px" viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve">
+  <g>
+    <path fill="#222222" fill-rule="evenodd" clip-rule="evenodd" d="M8,0h44c4.418,0,8,3.582,8,8v44c0,4.418-3.582,8-8,8H8 c-4.418,0-8-3.582-8-8V8C0,3.582,3.582,0,8,0z"/>
   	<path fill="#FFFFFF" d="M11.66,36.358c0,2.594,1.322,4.989,3.577,6.278l3.975,2.312v-8.874l-7.552-4.397V36.358
   		z M19.233,15.049l-3.988,2.315c-2.255,1.289-3.586,3.684-3.586,6.278v4.499l7.552,4.396v-8.689l7.699-4.395L19.233,15.049z
   		 M22.448,37.833v8.874l4.017,2.336c2.233,1.276,4.873,1.276,7.106,0l3.982-2.336v-8.748l-7.442,4.333L22.448,37.833z M40.79,44.948
