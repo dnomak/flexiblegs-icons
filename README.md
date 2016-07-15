@@ -1,3 +1,3 @@
-# [flexible-icons](http://flexible.gs)
+# [flexiblegs-icons](http://flexible.gs)
 
-Flexible Icon Font
+Flexible Grid System Icons
